@@ -1,0 +1,56 @@
+header {
+    text-align: center;
+    color: red;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 25px;
+    float: none;
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+}
+
+h3 {
+    color: orange;
+    text-align: center;
+}
+
+section p {
+    margin: 0 50px;
+}
+
+section p a {
+    color: purple;
+}
+
+.product {
+    text-align: center;
+}
+
+
+/*products css*/
+
+img {
+    width: 200px;
+}
+
+#products {
+    text-align: center;
+}
+
+
+/*about css*/
+
+#about h3 {
+    text-align: left;
+    padding-left: 50px;
+}
